@@ -1,3 +1,3 @@
 # firstrepository
-this is my first repositry
+this is my first repositryg
 Author - john
